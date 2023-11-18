@@ -7,6 +7,6 @@ import mindustry.mod.Plugin;
 public class Main extends Plugin {
     @Override
     public void init() {
-        Log.info("[MindustryPlugin] Loaded");
+        Log.info("[MindustryPluginBoilerplate] Loaded");
     }
 }
